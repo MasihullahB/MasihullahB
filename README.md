@@ -1,6 +1,6 @@
 ## Hi there 👋 I am Masihullah. Welcome to my GitHub. 🏝
 
-All my links: https://bio.link/masihullahb
+My portfolio: https://masihullahbudye.com
 
 
 <!--
