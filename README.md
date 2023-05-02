@@ -1,9 +1,9 @@
 # Hi there, I'm Masihullah <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <p align="center">
-  <img width="33%" src="./assets/images/profile-pic-cicle-5-2-23.png" alt="My photo" />
-  <img width="33%" src="https://github-readme-stats.vercel.app/api?username=masihullahb&show_icons=true&theme=dark" />
-  <img width="33%" src="https://github-readme-streak-stats.herokuapp.com/?user=masihullahb&theme=dark" />
+  <img width="20%" src="./assets/images/profile-pic-cicle-5-2-23.png" alt="My photo" />
+  <img width="37.5%" src="https://github-readme-stats.vercel.app/api?username=masihullahb&show_icons=true&theme=dark" />
+  <img width="37.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=masihullahb&theme=dark" />
 </p>
 <!-- ![My photo](./assets/images/profile-pic-cicle-5-2-23.png)-->
 
