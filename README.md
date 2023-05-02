@@ -1,6 +1,10 @@
 # Hi there, I'm Masihullah <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<img src="./assets/images/profile-pic-cicle-5-2-23.png" alt="My photo" height=300 width=300 />
+<p align="center">
+  <img width="33%" src="./assets/images/profile-pic-cicle-5-2-23.png" alt="My photo" />
+  <img width="33%" src="https://github-readme-stats.vercel.app/api?username=masihullahb&show_icons=true&theme=dark" />
+  <img width="33%" src="https://github-readme-streak-stats.herokuapp.com/?user=masihullahb&theme=dark" />
+</p>
 <!-- ![My photo](./assets/images/profile-pic-cicle-5-2-23.png)-->
 
 ## I'm a Frontend Developer who loves creating engaging and user-friendly web applications!
@@ -50,6 +54,15 @@ I am a dynamic and driven **Frontend Developer** with a passion for cutting-edge
 SharePoint Designer 2013, Nintex Workflow 2010, InfoPath 2010, PowerShell, SharePoint Add-ins, Web Services (SOAP/Web API)
 
 *Other*: AGILE development environment, team management, client interaction, requirement gathering, solution designing, Azure DevOps, API integration 🤝
+
+---
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=masihullahb&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=masihullahb&theme=tokyonight" />                           
+</p>
+
+---
 
 ### Projects
 
