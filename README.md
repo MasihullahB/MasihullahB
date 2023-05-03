@@ -1,13 +1,9 @@
 # Hi there, I'm Masihullah <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-<p align="center">
-  <img width="20%" src="./assets/images/profile-pic-cicle-5-2-23.png" alt="My photo" />
-  <img width="37.5%" height="320rem" src="https://github-readme-stats.vercel.app/api?username=masihullahb&show_icons=true&theme=dark" />
-  <img width="37.5%" height="320rem" src="https://github-readme-streak-stats.herokuapp.com/?user=masihullahb&theme=dark" />
-</p>
 <!-- ![My photo](./assets/images/profile-pic-cicle-5-2-23.png)-->
 
 ## I'm a Frontend Developer who loves creating engaging and user-friendly web applications!
+
+---
 
 ### About Me
 
@@ -27,7 +23,7 @@ I am a dynamic and driven **Frontend Developer** with a passion for cutting-edge
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a *Manchester United* ⚽️ fan but don't watch their matches live as they always seem to play miserably when I watch them live.
 
-### Skills
+---
 
 ### My skills and tools 🛠️
 
@@ -58,8 +54,8 @@ SharePoint Designer 2013, Nintex Workflow 2010, InfoPath 2010, PowerShell, Share
 ---
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=masihullahb&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=masihullahb&theme=tokyonight" />                           
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=masihullahb&show_icons=true&theme=dark" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=masihullahb&theme=dark" />
 </p>
 
 ---
@@ -67,6 +63,8 @@ SharePoint Designer 2013, Nintex Workflow 2010, InfoPath 2010, PowerShell, Share
 ### Projects
 
 - Coming soon
+
+---
 
 ### Certifications
 
