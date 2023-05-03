@@ -2,8 +2,8 @@
 
 <p align="center">
   <img width="20%" src="./assets/images/profile-pic-cicle-5-2-23.png" alt="My photo" />
-  <img width="37.5%" src="https://github-readme-stats.vercel.app/api?username=masihullahb&show_icons=true&theme=dark" />
-  <img width="37.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=masihullahb&theme=dark" />
+  <img width="37.5%" height="320rem" src="https://github-readme-stats.vercel.app/api?username=masihullahb&show_icons=true&theme=dark" />
+  <img width="37.5%" height="320rem" src="https://github-readme-streak-stats.herokuapp.com/?user=masihullahb&theme=dark" />
 </p>
 <!-- ![My photo](./assets/images/profile-pic-cicle-5-2-23.png)-->
 
@@ -25,7 +25,7 @@ I am a dynamic and driven **Frontend Developer** with a passion for cutting-edge
 [![Hashnode Badge](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white&link=[https://medium.com/@darecoder/](https://tech.masihullahbudye.com/))]([https://medium.com/@darecoder](https://tech.masihullahbudye.com/))
 [![Gmail Badge](https://img.shields.io/badge/-masihullah.ib@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:masihullah.ib@gmail.com)](mailto:masihullah.ib@gmail.com)<img src="https://komarev.com/ghpvc/?username=masihullahb" alt="MasihullahB"/>
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: [A fun fact about you]
+- ⚡ Fun fact: I am a *Manchester United* ⚽️ fan but don't watch their matches live as they always seem to play miserably when I watch them live.
 
 ### Skills
 
