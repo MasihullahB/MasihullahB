@@ -15,7 +15,7 @@ I am a dynamic and driven **Frontend Developer** with a passion for cutting-edge
 - 🤔 I’m passionate about learning new technologies and best practices in web development.
 - 💬 Ask me about anything related to JavaScript, frontend development or SharePoint.
 - 📚 I'm currently learning TypeScript, Next.js, and GraphQL to enhance my skills as a React Frontend Engineer.
-- 📫 How to reach me: [![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon!-white?style=for-the-badge&logo=firefox&logoColor=#FF7139)](http://www.masihullahbudye.com/)
+- 📫 How to reach me: [![Portfolio](https://img.shields.io/badge/Portfolio-masihullahbudye.com-white?style=for-the-badge&logo=firefox&logoColor=#FF7139)](http://www.masihullahbudye.com/)
 [![Twitter Badge](https://img.shields.io/badge/masihullahbudye-blue?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/masihullahbudye)](https://twitter.com/masihullahbudye/)
 [![Linkedin Badge](https://img.shields.io/badge/-Masihullah%20Budye-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/masihullah-budye/)](https://www.linkedin.com/in/masihullah-budye/)
 [![Hashnode Badge](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white&link=[https://medium.com/@darecoder/](https://tech.masihullahbudye.com/))]([https://medium.com/@darecoder](https://tech.masihullahbudye.com/))
