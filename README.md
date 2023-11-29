@@ -6,7 +6,7 @@ Dynamic developer with expertise in front-end and full-stack technologies. Speci
 
 - 🌱 Skills: JavaScript, TypeScript, HTML, CSS, React (Hooks, Redux, Router), SharePoint (SPFx, Designer), Power Platform, Node.js, Express.js, MongoDB
 - 💼 Past Roles: Senior M365 Consultant at Cielo Costa, Senior Developer at State Trading Organization Plc
-- 📚 Recent Learning: React, SharePoint Framework, Web Development
+- 📚 Interested in: React, SharePoint Framework, Web Development
 - 📫 Contact: [LinkedIn](https://www.linkedin.com/in/masihullah-budye/) | [Twitter](https://twitter.com/masihullahbudye) | [Portfolio](http://www.masihullahbudye.com/)
 - 🎓 Certifications: React and SharePoint Framework courses
 
