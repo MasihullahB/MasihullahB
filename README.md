@@ -1,8 +1,8 @@
 # Hi there, I'm Masihullah 👋
 
-## Senior Full Stack Developer | React, SharePoint, MERN Expert
+## Senior Full Stack Developer | React, SharePoint, Node js
 
-Dynamic developer with expertise in front-end and full-stack technologies. Specializing in creating efficient, user-friendly solutions with a focus on React, SharePoint, and the MERN stack. Currently advancing application performance at InfoBeans.
+Dynamic developer with expertise in front-end and full-stack technologies. Specializing in creating efficient, user-friendly solutions with a focus on React, SharePoint, and Node js. Currently working at InfoBeans UAE.
 
 - 🌱 Skills: JavaScript, TypeScript, HTML, CSS, React (Hooks, Redux, Router), SharePoint (SPFx, Designer), Power Platform, Node.js, Express.js, MongoDB
 - 💼 Past Roles: Senior M365 Consultant at Cielo Costa, Senior Developer at State Trading Organization Plc
