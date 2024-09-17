@@ -1,10 +1,10 @@
 # Hi there, I'm Masihullah 👋
 
-## Senior Full Stack Developer | React, SharePoint, Node js
+## Senior Developer | React, SharePoint, Node js
 
 Dynamic developer with expertise in front-end and full-stack technologies. Specializing in creating efficient, user-friendly solutions with a focus on React, SharePoint, and Node js. Currently working at InfoBeans UAE.
 
-- 🌱 Skills: JavaScript, TypeScript, HTML, CSS, React (Hooks, Redux, Router), SharePoint (SPFx, Designer), Power Platform, Node.js, Express.js, MongoDB
+- 🌱 Skills: JavaScript, TypeScript, HTML, CSS, React, SharePoint SPFx, Power Platform, Node.js, Express.js,
 - 💼 Past Roles: Senior M365 Consultant at Cielo Costa, Senior Developer at State Trading Organization Plc
 - 📚 Interested in: React, SharePoint Framework, Web Development
 - 📫 Contact: [LinkedIn](https://www.linkedin.com/in/masihullah-budye/) | [Twitter](https://twitter.com/masihullahbudye) | [Portfolio](http://www.masihullahbudye.com/)
